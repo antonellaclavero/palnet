@@ -168,3 +168,44 @@ li.project a.btn-more:hover {
     margin: 0;
 }
 
+/*section our-team*/
+
+section.our-team {
+	padding: 2em 2% 0 6%;
+}
+section.our-team .team {
+    overflow: auto;
+    text-align: left;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.our-team ul.container {
+	padding: 2em 8%;
+}
+.our-team .member {
+    float: left;
+    margin-right: 2%;
+    width: 30%;
+    list-style: none;
+}
+.member img {
+ 	height: 190px;
+    width: 190px;
+    margin-bottom: 10px;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    margin-bottom: 2em;
+    margin-top: 4em;
+}
+section.our-team h3 {
+	text-align: center;
+	font-family: 'PT Sans', sans-serif;
+	margin-bottom: 0.5em;
+}
+section.our-team p {
+	text-align: center;
+	font-family: 'PT Sans', sans-serif;
+	margin-bottom: 0.5em;
+}
+
