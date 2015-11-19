@@ -214,12 +214,20 @@ section.our-team p {
 .footer-one {
     background-color: #324544;
     text-align: center;
-   	padding: 3em 0;
+   	padding: 4em 0;
 }
 .footer-two {
 	background-color: #222e2e;
 	padding: 35px 0;
 
+}
+.footer-one h2 {
+	display: inline-block;
+	margin-right: 2em;
+}
+.footer-one .btn {
+	display: inline-block;
+	margin: 0;
 }
 .footer-two h3 {
 	text-align: center;
