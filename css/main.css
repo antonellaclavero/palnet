@@ -115,6 +115,14 @@ ul.bulleted-list li {
 }
 
 /*section portfolio*/
+section.portfolio ul {
+    overflow: auto;
+}
+section.portfolio li img {
+    display: inline-block;
+    float: left;
+    width: 25%;
+}
 li.sub-group h2 {
 	text-align: left;
 }
