@@ -137,8 +137,24 @@ ul.projects h3 {
     color: #5c6161;
     font-weight: 200;
 }
+li.project a.btn-more {
+	font-family: 'PT Sans', sans-serif;
+	font-size: 1em;
+	line-height: 1em;
+	letter-spacing: 0.02em;
+	text-transform: uppercase;
+	color: #222829;
+	border: solid 2px #222829;
+	padding: 3% 6%;
+	margin-top: 1em;
+	display: inline-block;
+}
+li.project a.btn-more:hover {
+	color: #425351;
+	border: solid 2px #425351;
+}
 .container {
-    padding: 2em 2%;
+    padding: 2em 6%;
 }
 .portfolio .project {
     float: left;
