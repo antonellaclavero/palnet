@@ -172,6 +172,7 @@ li.project a.btn-more:hover {
 
 section.our-team {
 	padding: 2em 2% 0 6%;
+	margin-bottom: 3em;
 }
 section.our-team .team {
     overflow: auto;
@@ -207,5 +208,22 @@ section.our-team p {
 	text-align: center;
 	font-family: 'PT Sans', sans-serif;
 	margin-bottom: 0.5em;
+}
+
+/*footer*/
+.footer-one {
+    background-color: #324544;
+    text-align: center;
+    padding: 60px 0;
+}
+.footer-two {
+	background-color: #222e2e;
+	padding: 6em 0;
+}
+footer h2 {
+	color: #fff;
+}
+footer a {
+	color: #fff;
 }
 
