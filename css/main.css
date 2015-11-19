@@ -115,14 +115,32 @@ ul.bulleted-list li {
 }
 
 /*section portfolio*/
-section.portfolio ul {
+
+section.portfolio {
+	padding: 4em 0;
+}
+section.portfolio .projects {
     overflow: auto;
+    text-align: left;
+    padding-bottom: 0;
+    margin-bottom: 0;
 }
-section.portfolio li img {
-    display: inline-block;
-    float: left;
-    width: 25%;
-}
-li.sub-group h2 {
+ul.projects h2 {
 	text-align: left;
+	margin: 1em 0 1em 0;
+	text-transform: uppercase;
+} 
+.container {
+    padding: 2em 2%;
 }
+.portfolio .project {
+    float: left;
+    margin-right: 2%;
+    width: 40%;
+    padding: 4%;
+    list-style: none;
+}
+.portfolio .project.last {
+    margin: 0;
+}
+
