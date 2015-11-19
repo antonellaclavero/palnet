@@ -214,11 +214,19 @@ section.our-team p {
 .footer-one {
     background-color: #324544;
     text-align: center;
-    padding: 60px 0;
+   	padding: 3em 0;
 }
 .footer-two {
 	background-color: #222e2e;
-	padding: 6em 0;
+	padding: 35px 0;
+
+}
+.footer-two h3 {
+	text-align: center;
+	color: #fff;
+	font-size: 14pt;
+	line-height: 14pt;
+	margin-bottom: 0.5em;
 }
 footer h2 {
 	color: #fff;
