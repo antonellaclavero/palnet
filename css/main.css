@@ -247,13 +247,7 @@ footer a {
 }
 
 /*Styles for portfolio index*/
-section.intro-portfolio,
-section.images-portfolio {
-	padding: 30px 10%;
-}
-section.intro-portfolio h1,
-h2 {
-	text-align: left;
-}
 
-
+img.image-project {
+	height: 346px;
+}
