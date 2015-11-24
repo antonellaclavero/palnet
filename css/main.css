@@ -120,6 +120,9 @@ section.portfolio {
 	padding: 2em 0;
 	background-color: #f5f5f5;
 }
+section.portfolio h2 {
+	text-align: center;
+}
 section.portfolio .projects {
     overflow: auto;
     text-align: left;
@@ -242,4 +245,15 @@ footer h2 {
 footer a {
 	color: #fff;
 }
+
+/*Styles for portfolio index*/
+section.intro-portfolio,
+section.images-portfolio {
+	padding: 30px 10%;
+}
+section.intro-portfolio h1,
+h2 {
+	text-align: left;
+}
+
 
