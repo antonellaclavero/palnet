@@ -71,15 +71,19 @@ nav li a {
 	line-height: 13pt;
 }
 section.hero {
-	background-color: #425351;
-    padding: 2em 18%;
+	background: transparent url("/images/background-image.jpg") center top no-repeat;
+    background-size: cover;
+    width: 100%;
+    display: table;
+    overflow: hidden;
 }
-h1.intro {
+
+h1.intro-copy {
 	font-size: 3.2em;
     padding: 3em 12%;
     font-family:'PT Sans', sans-serif;
     color: #fff;
-    text-transform: capitalize;
+    text-transform: inherit;
     margin: 0;
 }
 
