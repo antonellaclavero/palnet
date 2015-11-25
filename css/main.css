@@ -140,6 +140,7 @@ ul.projects h3 {
     line-height: 16pt;
     color: #5c6161;
     font-weight: 200;
+    margin-top: 0.5em;
 }
 li.project a.btn-more {
 	font-family: 'PT Sans', sans-serif;
