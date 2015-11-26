@@ -175,6 +175,9 @@ li.project a.btn-more:hover {
 .portfolio .project.last {
     margin: 0;
 }
+div.btn-center {
+	text-align: center;
+}
 
 /*section our-team*/
 
