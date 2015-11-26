@@ -312,6 +312,12 @@ section.one-image {
 	}
 }
 @media screen and (max-width: 450px) {
+	nav {
+		display: none;
+	}
+	h1.intro-copy {
+    	padding: 2em 12%;
+    }
 	.our-team .member {
     	width: 100%;
 	}
@@ -324,4 +330,14 @@ section.one-image {
 	.footer-one h2 {
 		margin: 0 0 1em 0;
 	}
+	.portfolio .project {
+    	width: 90%;
+    }
+    img.image-project {
+    	width: 100%;
+    	height: auto;
+    }
+    .container {
+    	padding: 0;
+    }
 }
