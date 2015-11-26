@@ -311,3 +311,17 @@ section.one-image {
     	padding: 2em 2%;
 	}
 }
+@media screen and (max-width: 450px) {
+	.our-team .member {
+    	width: 100%;
+	}
+    .our-team ul.container {
+    	padding: 2em 0;
+	}
+	.footer-one {
+		padding: 4em 2em;
+	}
+	.footer-one h2 {
+		margin: 0 0 1em 0;
+	}
+}
