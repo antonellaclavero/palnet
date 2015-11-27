@@ -71,7 +71,7 @@ nav li a {
 	line-height: 13pt;
 }
 section.hero {
-	background: transparent url("images/background-image-4.jpg") center top no-repeat;
+	background: transparent url("..images/background-image-4.jpg") center top no-repeat;
     background-size: cover;
     width: 100%;
     display: table;
