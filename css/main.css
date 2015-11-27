@@ -71,13 +71,12 @@ nav li a {
 	line-height: 13pt;
 }
 section.hero {
-	background: transparent url("/images/background-image-2.jpg") center top no-repeat;
+	background: transparent url("/images/background-image-4.jpg") center top no-repeat;
     background-size: cover;
     width: 100%;
     display: table;
     overflow: hidden;
 }
-
 h1.intro-copy {
 	font-size: 3.2em;
 	line-height: 1.2em;
@@ -178,6 +177,11 @@ li.project a.btn-more:hover {
 }
 div.btn-center {
 	text-align: center;
+}
+.portfolio p.description-project {
+	padding: 15px 17%;
+    font-size: 14pt;
+    line-height: 16pt;
 }
 
 /*section our-team*/
